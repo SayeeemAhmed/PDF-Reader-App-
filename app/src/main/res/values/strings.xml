@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PDFreader</string>
+
+    <string-array name="Storybook">
+        <item>story1</item>
+
+    </string-array>
+</resources>
